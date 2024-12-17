@@ -1,0 +1,11 @@
+{
+    "language": "English",
+    "appTitle": "Should Know",
+    "homeLabel": "Home",
+    "settingsLabel": "Settings",
+    "toContact": "Contact",
+    "author": "By",
+    "darkMode": "Dark Mode" , 
+    "lightMode": "Light Mode",
+    "languageLabel": "Language"
+}

@@ -1,0 +1,38 @@
+{
+    "language": "العربية",
+    "@language": {
+        "description" : "The current language"
+    },
+    "appTitle": "يجب أن تعلم",
+    "@appTitle" : {
+        "description": "App title"
+    },
+    "homeLabel": "الرئيسية",
+    "@homeLabel" : {
+        "description": "First Drawer"
+    },
+    "settingsLabel": "الاعدادات",
+    "@settingsLabel" : {
+        "description": "second at drawe"
+    },
+    "toContact": "للتواصل",
+    "@toContact" : {
+        "description": "contact message"
+    },
+    "darkMode": "الوضع الداكن",
+    "@darkMode" : {
+        "description": "dark mode label"
+    },
+    "lightMode": "الوضع الفاتح",
+    "@lightMode" : {
+        "description": "Light Mode Label"
+    },
+    "author": "بواسطة",
+    "@author" : {
+        "description": "author message"
+    },
+    "languageLabel": "اللغة",
+    "@languageLabel" : {
+        "description": "Language label in settings"
+    }
+}
